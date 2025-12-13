@@ -34,6 +34,7 @@ The app uses Firebase Firestore to store recipes so they persist online.
   - `createdAt` (timestamp) – Date added
 
 ## Project Structure
+```text
 foodbase/
 │
 ├── homepage.html / index.html
@@ -53,9 +54,11 @@ foodbase/
 │
 └── README.md
 
+
 ## Usage
 1. Log in or sign up.
 2. Add recipes with title, ingredients, and description.
 3. View recipes and expand details.
 4. Edit or delete recipes.
 5. Click About Us for project info.
+
