@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Recipe Book</title>
+  <link rel="stylesheet" href="homepage.css">
+</head>
+<body>
+  
+  <header>
+    <div class="logo">Recipe Book</div>
+    <nav>
+      <a href="about.html" class="nav-link">About Us</a>
+      <button id="logoutBtn">Logout</button>
+    </nav>
+  </header>
+
+  <main>
+    
+    <section class="add-recipe-section">
+      <h2>Add Your Favorite Recipe</h2>
+      <div class="add-recipe-form">
+        <input type="text" id="recipeTitle" placeholder="Recipe Title">
+        <textarea id="recipeIngredients" placeholder="Ingredients"></textarea>
+        <textarea id="recipeDescription" placeholder="Description"></textarea>
+        <button id="addRecipeBtn">Add Recipe</button>
+      </div>
+    </section>
+
+    
+    <section class="recipe-list" id="recipeList"></section>
+  </main>
+
+  <script type="module" src="homepage.js"></script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
