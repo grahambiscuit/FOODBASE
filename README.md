@@ -55,10 +55,11 @@ foodbase/
 └── README.md
 
 
-## Usage
+Usage
 1. Log in or sign up.
 2. Add recipes with title, ingredients, and description.
 3. View recipes and expand details.
 4. Edit or delete recipes.
 5. Click About Us for project info.
+
 
