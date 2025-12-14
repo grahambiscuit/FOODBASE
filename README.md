@@ -63,7 +63,8 @@ Usage
 5. Click About Us for project info.
 
 
-![FOODBASE Homepage Screenshot](foodbase-homepage.png)
+![FOODBASE HOMEPAGE SCREENSHOT](FOODBASE HOMEPAGE SCREENSHOT.png)
+
 
 
 
