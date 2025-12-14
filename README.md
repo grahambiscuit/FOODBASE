@@ -62,7 +62,3 @@ Usage
 4. Edit or delete recipes.
 5. Click About Us for project info.
 
-<img width="1539" height="478" alt="image" src="https://github.com/user-attachments/assets/910182a1-7c50-43ff-ab42-7704df0c6b35" />
-
-
-
