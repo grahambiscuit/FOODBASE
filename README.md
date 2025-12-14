@@ -62,3 +62,8 @@ Usage
 4. Edit or delete recipes.
 5. Click About Us for project info.
 
+
+![FOODBASE Homepage Screenshot](foodbase-homepage.png)
+
+
+
