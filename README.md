@@ -64,7 +64,9 @@ Usage
 
 
 ## Screenshot
-![Foodbase Homepage](foodbase-homepage.png)
+![Foodbase Homepage](https://raw.githubusercontent.com/grahambiscuit/FOODBASE/main/foodbase-homepage.png)
+
+
 
 
 
