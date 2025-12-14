@@ -33,6 +33,10 @@ The app uses Firebase Firestore to store recipes so they persist online.
   - `description` (string) – Recipe description
   - `createdAt` (timestamp) – Date added
 
+## Screenshot
+![Foodbase Homepage](https://raw.githubusercontent.com/grahambiscuit/FOODBASE/main/foodbase-homepage.png)
+
+
 ## Project Structure
 ```text
 foodbase/
@@ -63,8 +67,8 @@ Usage
 5. Click About Us for project info.
 
 
-## Screenshot
-![Foodbase Homepage](https://raw.githubusercontent.com/grahambiscuit/FOODBASE/main/foodbase-homepage.png)
+
+
 
 
 
