@@ -65,18 +65,3 @@ Usage
 3. View recipes and expand details.
 4. Edit or delete recipes.
 5. Click About Us for project info.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
